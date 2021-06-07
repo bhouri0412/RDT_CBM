@@ -12,4 +12,4 @@ A new multi-scale curved beam based model was developed for piston-ring designs.
 
 Bhouri, M. and Tian, T., "Curved Beam Based Model for Piston-Ring Designs in Internal Combustion Engines: Working Engine Conditions Study," SAE Technical Paper 2018-01-1277, 2018, https://doi.org/10.4271/2018-01-1277.
 
-Bhouri, M. and Tian, T., "Curved Beam Based Model for Piston-Ring Designs in Internal Combustion Engines: Closed Shape Within a Flexible Band, Free-Shape and Force in Circular Bore Study," SAE Technical Paper 2018-01-1279, 2018,
+Bhouri, M. and Tian, T., "Curved Beam Based Model for Piston-Ring Designs in Internal Combustion Engines: Closed Shape Within a Flexible Band, Free-Shape and Force in Circular Bore Study," SAE Technical Paper 2018-01-1279, 2018, https://doi.org/10.4271/2018-01-1279.
